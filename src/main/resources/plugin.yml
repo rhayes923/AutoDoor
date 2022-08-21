@@ -1,0 +1,8 @@
+name: AutoDoor
+main: com.ryan.autodoor.AutoDoor
+version: 1.0
+api-version: 1.19
+commands:
+   autodoor:
+      description: Set type of AutoDoor functionality
+      usage: /autodoor <unidirectional/omnidirectional>
